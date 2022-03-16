@@ -31,9 +31,10 @@ body{
 .item-list-right{
     list-style-type: none;
     float: right;
+    margin: 20px;
 }
 .item-right{
-    margin: 30px;
+    margin: 10px;
     float: left;
 }
 
