@@ -9,18 +9,41 @@ body{
 }
 .header-title{
     color: white;
-    background-color: lightblue;
     float: left;
     margin: 10px 30px;
+    font-family: 'Times New Roman', Times, serif;
     font-size: large;   
 }
 
+.id-name{
+    color: coral;
+}
 
-ul{
+.item-list-left{
     list-style-type: none;
     float: left;
 }
-.item{
+.item-left{
     margin: 30px;
     float: left;
+}
+
+.item-list-right{
+    list-style-type: none;
+    float: right;
+}
+.item-right{
+    margin: 30px;
+    float: left;
+}
+
+.body-container{
+    background-color:aquamarine;
+    height: 800px;
+    width: 100%;
+}
+.footer-container{
+    background-color: lightgreen;
+    width: 100%;
+    height: 300px;
 }
