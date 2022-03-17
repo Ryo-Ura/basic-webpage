@@ -45,7 +45,6 @@ body{
     background-color:aquamarine;
     height: 800px;
     width: 100%;
-    
 }
 .project{
     font-size: 26px;
@@ -61,7 +60,10 @@ body{
     padding: 5px;
     display: block;
 }
-
+.explain{
+    padding-left: 50px;
+    width: 60%;
+}
 .content{
     align-items: center;
     float: left;
