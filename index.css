@@ -42,7 +42,7 @@ body{
 }
 
 .body-container{
-    background-color:aquamarine;
+    background-color:lightyellow;
     height: 800px;
     width: 100%;
 }
@@ -53,12 +53,14 @@ body{
     border: 1px solid white; 
     padding-top: 15px;
     padding-bottom: 5px;
+
 }
 .body-container img{
     height: 160px;
     width: 270px;
     padding: 5px;
     display: block;
+    border: 1px solid white; 
 }
 .explain{
     padding-left: 50px;
@@ -71,7 +73,9 @@ body{
 }
 
 .description{
-    text-align: justify;
+
+    border: 1px solid black; 
+    text-align: center;
 }
 
 .footer-container{
